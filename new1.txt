@@ -1,0 +1,1 @@
+this is new1 file of practice publish local repo to github
